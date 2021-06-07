@@ -60,12 +60,18 @@ To run the application, the following should be installed:
 
 ### Run from source
 
-This project has no interface yet. 
+In the command line run the following: 
+
+``
+git clone https://github.com/fortiss-cce/flight-reservation.git
+cd flight-reservation
+``
+This project has no interface yet.
 You can run the tests to see if the application can be executed and still behaves as intended.
 
 In the command line, run the following:
 
-``mvn test``
+``./mvnw clean install``
 
 For a better visualization of the tests you can also use the test runner from IntelliJ 
 which displays the tests in a behaviour driven manner.
