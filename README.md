@@ -29,7 +29,7 @@ However, the quality of the code is not very good, and it gets hard to maintain 
 Many instances of structural flaws can be found in the code.
 
 
-## Task - refecatorng
+## Task - refactoring
 
 The task is simple: Find structural flaws and refactor the code.
 You can add, change, move classes, interfaces, and methods
