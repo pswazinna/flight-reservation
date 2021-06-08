@@ -1,6 +1,6 @@
-# Flight Reservations - A flight reservation service
+# Flight Reservation Service
 
-This repository contains a simple applications that provides a ticket reservation service for flights.
+This repository contains a simple application that provides a ticket reservation service for flights.
 It contains ...
   * ... entities for various types of air-travel e.g., 
     descriptions of planes (``flight.reservation.plane.*``), 
@@ -29,23 +29,16 @@ However, the quality of the code is not very good, and it gets hard to maintain 
 Many instances of structural flaws can be found in the code.
 
 
-## Task - create a clean architecture
+## Task - refecatorng
 
-The task is simple: Refactor the code. Find structural flaws and apply well-known design principles.
-The task is
-to add and change the classes and interfaces and
-to shape the dependencies
-in order to ease future development activities. 
-Maintainability and extendability of the software architecture, classes and packages should be your main focus.
+The task is simple: Find structural flaws and refactor the code.
+You can add, change, move classes, interfaces, and methods
+to enhance maintainability and extendability.
 
 ### Procedure
 
 1. Create a fork of this repository
-1. Refactor/extend the code to achieve a clean architecture
-    * keep the clean architecture principles in mind
-      * apply design patterns where beneficial
-      * create small and readable classes and  
-      * apply SRP and hide unnecessary complexity
+1. Refactor/extend the code
   * Javadoc and extensive error handling can be disregarded for the purpose of this exercise
   * Adjust the test code so that all tests succeed after refactoring
 3. Create a pull request to submit you proposals
