@@ -55,11 +55,11 @@ To run the application, the following should be installed:
 
 In the command line run the following: 
 
-``
+```
 git clone https://github.com/fortiss-cce/flight-reservation.git
-
 cd flight-reservation
-``
+```
+
 This project has no interface yet.
 You can run the tests to see if the application can be executed and still behaves as intended.
 
