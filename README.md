@@ -57,6 +57,7 @@ In the command line run the following:
 
 ``
 git clone https://github.com/fortiss-cce/flight-reservation.git
+
 cd flight-reservation
 ``
 This project has no interface yet.
